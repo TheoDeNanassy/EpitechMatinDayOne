@@ -7943,3 +7943,88 @@ Script Stack (0 frames):
 [2021.09.16-14.45.19:735][950]LogContentValidation: Display: Validating Texture2D /Game/Images/win.win
 [2021.09.16-14.45.19:735][950]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2021.09.16-14.45.19:735][950]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Win.WBP_Win
+[2021.09.16-14.46.18:863][116]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.09.16-14.46.18:883][116]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.09.16-14.46.22:127][392]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Death
+[2021.09.16-14.46.22:131][392]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.09.16-14.46.24:101][570]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP_Death.WBP_Death
+[2021.09.16-14.46.46:999][145]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.16-14.47.06:461][379]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.16-14.47.15:683][437]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.16-14.47.20:697][ 34]BlueprintLog: New page: Compile WBP_Death
+[2021.09.16-14.47.20:742][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.09.16-14.47.38:749][161]BlueprintLog: New page: Compile WBP_Death
+[2021.09.16-14.47.38:796][161]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.09.16-14.48.04:829][110]BlueprintLog: New page: Compile WBP_Death
+[2021.09.16-14.48.04:874][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.09.16-14.48.05:303][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_Death" FILE="../../../../../Projet/EpitechMatinDayOne/Content/Blueprints/WBP_Death.uasset" SILENT=true
+[2021.09.16-14.48.05:310][154]LogSavePackage: Moving '../../../../../Projet/EpitechMatinDayOne/Saved/WBP_Death5CF72A994514707C22DF14AD9EFC2344.tmp' to '../../../../../Projet/EpitechMatinDayOne/Content/Blueprints/WBP_Death.uasset'
+[2021.09.16-14.48.05:332][154]AssetCheck: New page: Asset Save: WBP_Death
+[2021.09.16-14.48.05:332][154]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/WBP_Death.WBP_Death
+[2021.09.16-14.48.25:335][435]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.16-14.48.41:265][240]BlueprintLog: New page: Compile BP_MyPlayer
+[2021.09.16-14.48.41:427][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.09.16-14.48.43:272][392]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.16-14.48.43:280][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.16-14.48.43:280][392]PIE: New page: PIE session: Level1 (16 sept. 2021 à 18:48:43)
+[2021.09.16-14.48.43:280][392]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.09.16-14.48.43:290][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009891s)
+[2021.09.16-14.48.43:291][392]LogAIModule: Creating AISystem for world Level1
+[2021.09.16-14.48.43:291][392]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2021.09.16-14.48.43:291][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.011006s)
+[2021.09.16-14.48.43:331][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.09.16-14.48.43:332][392]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2021.09.16-14.48.43:332][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.16-14.48.43:332][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.16-14.48.43:332][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.16-14.48.43:332][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.16-14.48.43:332][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.16-14.48.43:332][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.16-14.48.43:332][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.16-14.48.43:333][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.16-14.48.43:333][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.16-14.48.43:333][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.16-14.48.43:333][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.16-14.48.43:333][392]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.16-14.48.43:336][392]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.16-14.48.43:336][392]LogAudioMixer: Display: 1: FrontRight
+[2021.09.16-14.48.43:344][392]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Yeti Stereo Microphone)
+[2021.09.16-14.48.43:344][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.16-14.48.43:344][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.16-14.48.43:344][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.16-14.48.43:345][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.16-14.48.43:345][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.16-14.48.43:345][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.16-14.48.43:346][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.16-14.48.43:346][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.16-14.48.43:346][392]LogInit: FAudioDevice initialized.
+[2021.09.16-14.48.43:346][392]LogAudio: Display: Audio Device (ID: 93) registered with world 'Level1'.
+[2021.09.16-14.48.43:401][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-14.48.43:401][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.16-14.48.43:404][392]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.09.16-16.48.43
+[2021.09.16-14.48.43:404][392]LogWorld: Bringing up level for play took: 0.001993
+[2021.09.16-14.48.43:404][392]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2021.09.16-14.48.43:410][392]PIE: Server logged in
+[2021.09.16-14.48.43:412][392]PIE: Play in editor total start time 0,133 seconds.
+[2021.09.16-14.48.55:018][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.16-14.48.55:019][767]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.09.16-14.48.55:020][767]LogSlate: Window 'EpitechUE Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.16-14.48.55:065][767]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.09.16-14.48.55:065][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-14.48.55:083][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.16-14.48.55:123][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.16-14.48.55:160][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.16-14.48.55:161][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-14.48.55:162][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.16-14.48.55:170][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.09.16-14.48.55:237][768]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2021.09.16-14.48.59:948][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.09.16-14.48.59:968][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Projet/EpitechMatinDayOne/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.16-14.49.00:006][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.09.16-14.49.00:037][177]LogSavePackage: Moving '../../../../../Projet/EpitechMatinDayOne/Saved/Level199CB0563480C30A1A020FE9A7D51BD63.tmp' to '../../../../../Projet/EpitechMatinDayOne/Content/Maps/Level1.umap'
+[2021.09.16-14.49.00:049][177]LogFileHelpers: Saving map 'Level1' took 0.081
+[2021.09.16-14.49.00:060][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MyPlayer" FILE="../../../../../Projet/EpitechMatinDayOne/Content/Blueprints/BP_MyPlayer.uasset" SILENT=true
+[2021.09.16-14.49.00:082][177]LogSavePackage: Moving '../../../../../Projet/EpitechMatinDayOne/Saved/BP_MyPlayerE916B06943177803B2E15F9433AE1D90.tmp' to '../../../../../Projet/EpitechMatinDayOne/Content/Blueprints/BP_MyPlayer.uasset'
+[2021.09.16-14.49.00:102][177]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.16-14.49.00:102][177]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MyPlayer.BP_MyPlayer
+[2021.09.16-14.49.00:102][177]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
