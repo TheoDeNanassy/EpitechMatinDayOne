@@ -11228,3 +11228,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.17-10.43.11:581][694]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.17-10.43.11:581][694]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MyPlayer.BP_MyPlayer
 [2021.09.17-10.43.11:581][694]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.09.17-10.48.36:696][428]BlueprintLog: New page: Compile BP_MyPlayer
+[2021.09.17-10.48.36:800][428]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2021.09.17-10.48.39:883][665]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.09.17-10.48.39:907][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../Projet/EpitechMatinDayOne/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.17-10.48.39:950][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.17-10.48.39:998][665]LogSavePackage: Moving '../../../../../Projet/EpitechMatinDayOne/Saved/Level1BAF2B9BF442501EC66B2D4B7F8F50276.tmp' to '../../../../../Projet/EpitechMatinDayOne/Content/Maps/Level1.umap'
+[2021.09.17-10.48.40:014][665]LogFileHelpers: Saving map 'Level1' took 0.108
+[2021.09.17-10.48.40:029][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MyPlayer" FILE="../../../../../Projet/EpitechMatinDayOne/Content/Blueprints/BP_MyPlayer.uasset" SILENT=true
+[2021.09.17-10.48.40:060][665]LogSavePackage: Moving '../../../../../Projet/EpitechMatinDayOne/Saved/BP_MyPlayer478417E144297B6DA3F7E991910DB3E5.tmp' to '../../../../../Projet/EpitechMatinDayOne/Content/Blueprints/BP_MyPlayer.uasset'
+[2021.09.17-10.48.40:081][665]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.17-10.48.40:082][665]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MyPlayer.BP_MyPlayer
+[2021.09.17-10.48.40:082][665]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.09.17-10.48.41:010][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.09.17-10.48.41:037][741]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.41:037][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.17-10.48.41:128][741]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.17-10.48.41:128][741]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.41:128][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.17-10.48.41:276][741]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.17-10.48.41:276][741]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.41:276][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.17-10.48.41:518][741]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.17-10.48.41:518][741]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.41:519][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.17-10.48.41:668][741]LogSlate: Window 'EpitechUE - Unreal Editor' being destroyed
+[2021.09.17-10.48.41:687][741]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.17-10.48.42:295][742]Cmd: QUIT_EDITOR
+[2021.09.17-10.48.42:295][742]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.09.17-10.48.42:411][742]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.09.17-10.48.42:987][742]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.09.17-10.48.42:987][742]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.09.17-10.48.42:987][742]LogAudio: Display: Audio Device unregistered from world 'Level1'.
+[2021.09.17-10.48.42:987][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.17-10.48.42:992][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.17-10.48.43:079][742]LogAudio: Display: Audio Device Manager Shutdown
+[2021.09.17-10.48.43:112][742]LogExit: Preparing to exit.
+[2021.09.17-10.48.43:915][742]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2021.09.17-10.48.45:331][742]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:344][742]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:359][742]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:367][742]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:373][742]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:379][742]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:384][742]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:389][742]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:395][742]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:400][742]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.45:404][742]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.46:081][742]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.09.17-10.48.46:728][742]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.17-10.48.46:763][742]LogExit: Editor shut down
+[2021.09.17-10.48.46:788][742]LogExit: Transaction tracking system shut down
